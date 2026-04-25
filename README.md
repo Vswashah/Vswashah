@@ -1,32 +1,20 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vishwaa+Shah+%F0%9F%91%8B;Software+Developer+%26+AI+Engineer;CS+Grad+Student+%7C+Open+to+Roles" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishwaa-shah/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shahvswa07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Vswashah">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="header.svg" width="800" alt="Vishwaa Shah - Software Developer & AI Engineer"/>
 
----
+<br/>
 
-```bash
-$ cat about.txt
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwaa-shah/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahvswa07@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vswashah)
 
-  name        Vishwaa Shah
-  degree      M.S. Computer Science (in progress)
-  focus       AI systems · software engineering · LLMs
-  experience  Software Developer Intern @ Palm Infotech (Spring 2025)
-  looking_for SWE · AI Engineer · Software Dev roles
-```
+</div>
 
----
+<br/>
+
+<img src="terminal.svg" width="800" alt="about me terminal"/>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -52,6 +40,38 @@ $ cat about.txt
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Tag | Project | Description | Stack |
+|---|---|---|---|
+| `AI` | [🔬 Breast Cancer Diagnosis](https://github.com/Vswashah/breast-cancer-diagnosis) | AI classifier distinguishing malignant vs benign tumors from clinical feature data | Python, scikit-learn, Pandas |
+| `AI` | [🏠 House Price Prediction](https://github.com/Vswashah/house-price-prediction-model) | Regression model using Linear Regression & Random Forest to predict housing prices | Python, scikit-learn, Jupyter |
+| `SWE` | [☕ Coffee Shop Website](https://github.com/Vswashah/coffee-shop-menu-website) | Responsive menu website for a coffee shop | HTML, CSS |
+| `SWE` | [📈 JPMC SWE Task](https://github.com/Vswashah/forage-jpmc-swe-task-1) | J.P. Morgan virtual experience — data feed manipulation and real-time visualization | Python, React |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vswashah&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vswashah&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vswashah&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vswashah&style=flat-square&color=grey" alt="profile views" />
+  &nbsp;·&nbsp;
+  <b>Open to opportunities</b> — shahvswa07@gmail.com
+</p>![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
