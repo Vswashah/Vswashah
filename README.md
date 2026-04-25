@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="header.svg?v=2" width="800" alt="Vishwaa Shah - Software Developer & AI Engineer"/>
+<img src="header.svg?v=3" width="800" alt="header"/>
+<img src="terminal.svg?v=2" width="800" alt="terminal"/>
 
 <br/>
 
@@ -9,10 +10,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vswashah)
 
 </div>
-
-<br/>
-
-<img src="terminal.svg?v=2" width="800" alt="about me terminal"/>
 
 <br/>
 
