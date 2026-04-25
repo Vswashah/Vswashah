@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" width="800" alt="Vishwaa Shah - Software Developer & AI Engineer"/>
+<img src="header.svg?v=2" width="800" alt="Vishwaa Shah - Software Developer & AI Engineer"/>
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="terminal.svg" width="800" alt="about me terminal"/>
+<img src="terminal.svg?v=2" width="800" alt="about me terminal"/>
 
 <br/>
 
@@ -40,38 +40,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Tag | Project | Description | Stack |
-|---|---|---|---|
-| `AI` | [🔬 Breast Cancer Diagnosis](https://github.com/Vswashah/breast-cancer-diagnosis) | AI classifier distinguishing malignant vs benign tumors from clinical feature data | Python, scikit-learn, Pandas |
-| `AI` | [🏠 House Price Prediction](https://github.com/Vswashah/house-price-prediction-model) | Regression model using Linear Regression & Random Forest to predict housing prices | Python, scikit-learn, Jupyter |
-| `SWE` | [☕ Coffee Shop Website](https://github.com/Vswashah/coffee-shop-menu-website) | Responsive menu website for a coffee shop | HTML, CSS |
-| `SWE` | [📈 JPMC SWE Task](https://github.com/Vswashah/forage-jpmc-swe-task-1) | J.P. Morgan virtual experience — data feed manipulation and real-time visualization | Python, React |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vswashah&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vswashah&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vswashah&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vswashah&style=flat-square&color=grey" alt="profile views" />
-  &nbsp;·&nbsp;
-  <b>Open to opportunities</b> — shahvswa07@gmail.com
-</p>![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
