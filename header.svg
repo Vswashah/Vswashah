@@ -1,0 +1,40 @@
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Syne:wght@800&display=swap');
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .wrap {
+          width: 800px;
+          height: 200px;
+          background: #0d1117;
+          border-radius: 12px;
+          padding: 32px 40px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          position: relative;
+          overflow: hidden;
+        }
+        .grid {
+          position: absolute;
+          inset: 0;
+          background-image: linear-gradient(#ffffff08 1px, transparent 1px), linear-gradient(90deg, #ffffff08 1px, transparent 1px);
+          background-size: 32px 32px;
+        }
+        .tag { font-family: 'JetBrains Mono', monospace; font-size: 11px; color: #666; margin-bottom: 8px; letter-spacing: 0.08em; }
+        .name { font-family: 'Syne', sans-serif; font-size: 42px; font-weight: 800; color: #fff; letter-spacing: -0.02em; line-height: 1; margin-bottom: 10px; }
+        .name span { color: #555; }
+        .sub { font-family: 'JetBrains Mono', monospace; font-size: 12px; color: #888; }
+        .sub b { color: #aaa; }
+        .dot { display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: #27c93f; margin-right: 6px; vertical-align: middle; }
+      </style>
+      <div class="wrap">
+        <div class="grid"></div>
+        <div class="tag">// profile.md — Vishwaa Shah</div>
+        <div class="name">Software Developer <span>&amp; AI Engineer</span></div>
+        <div class="sub"><span class="dot"></span><b>Open to SWE · AI Engineer · Software Dev roles</b> &nbsp;·&nbsp; CS Grad Student</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
