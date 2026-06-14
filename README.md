@@ -41,13 +41,12 @@
 ---
 
 ## 🚀 Featured Projects
-
 | Tag | Project | Description | Stack |
 |---|---|---|---|
-| `AI` | [🔬 Breast Cancer Diagnosis](https://github.com/Vswashah/breast-cancer-diagnosis) | AI classifier distinguishing malignant vs benign tumors from clinical feature data | Python, scikit-learn, Pandas |
-| `AI` | [🏠 House Price Prediction](https://github.com/Vswashah/house-price-prediction-model) | Regression model using Linear Regression & Random Forest to predict housing prices | Python, scikit-learn, Jupyter |
-| `SWE` | [☕ Coffee Shop Website](https://github.com/Vswashah/coffee-shop-menu-website) | Responsive menu website for a coffee shop | HTML, CSS |
-| `SWE` | [📈 JPMC SWE Task](https://github.com/Vswashah/forage-jpmc-swe-task-1) | J.P. Morgan virtual experience — data feed manipulation and real-time visualization | Python, React |
+| `AI` | [🤖 Phantom](https://github.com/Vswashah/phantom) | Multi-agent adversarial debate system with autonomous agent orchestration | Python, LangGraph, Ollama |
+| `SWE` | [📋 Trackly](https://github.com/Vswashah/Trackly) | AI-powered Kanban issue tracker with real-time duplicate detection via pgvector & RAG pipeline | React, Node.js, PostgreSQL, LangChain |
+| `AI` | [🐛 Bug Triage Agent](https://github.com/Vswashah/bug-triage-agent) | Autonomous agent that analyzes bug reports, searches for root causes, and drafts GitHub issues | Python |
+| `SWE` | [🔗 TCP Pool](https://github.com/Vswashah/tcp-pool) | Custom TCP connection pooler | C, Makefile |
 
 ---
 
